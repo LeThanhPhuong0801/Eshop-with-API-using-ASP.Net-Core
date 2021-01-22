@@ -3,10 +3,10 @@
 ##Trang chủ
 ![Home](/Image/HomePage.png)
 
-##Đăng nhập
+##Đăng kí
 ![Home](/Image/SignUp.png)
 
-##Đăng kí
+##Đăng nhập
 ![Home](/Image/SignIn.png)
 
 ##Giỏ hàng
